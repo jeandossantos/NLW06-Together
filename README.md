@@ -1,7 +1,6 @@
 # NLW06 Together
 
-[![NPM](https://github.com/jeandossantos/NLW06-Together/blob/master/LICENSE) 
-
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/jeandossantos/NLW06-Together/blob/master/LICENSE) 
 ## Sobre o projeto
 
 Está aplicação foi desenvolvida na NLW06 Together da rocketseat.
