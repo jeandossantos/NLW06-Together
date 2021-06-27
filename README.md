@@ -7,7 +7,7 @@
 Está aplicação foi desenvolvida na NLW06 Together da rocketseat.
 
 ## Juntos para o próximo nível
-<img src="https://github.com/jeandossantos/assets/blob/master/nlw6/1%20-%20NLW%20%2305%20-%201600x2560.png" alt="drawing" width="300"/>
+<img src="https://github.com/jeandossantos/assets/blob/master/nlw6/1%20-%20NLW%20%2305%20-%202560x1080.png" alt="drawing"/>
 
 ## Diagrama Entidade Relacionamento
 
